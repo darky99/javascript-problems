@@ -1,3 +1,5 @@
+// problem statment https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=next-challenge&h_v=zen&isFullScreen=false
+
 'use strict';
 
 process.stdin.resume();
